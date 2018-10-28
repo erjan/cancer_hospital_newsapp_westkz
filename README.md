@@ -4,6 +4,10 @@ Uses firebase free server.
 
 Admin can login and create new news post - add text & photo. E.g. promotional offers from the clinic
 
+
+![zko1](https://user-images.githubusercontent.com/4441068/47615251-75d7df80-dace-11e8-9447-46d2dfc547c9.jpg)
+
+
 ![photo_2018-10-12_21-56-48](https://user-images.githubusercontent.com/4441068/46883426-78e69500-ce6b-11e8-8819-f73e9d454bf6.jpg)
 ![photo_2018-10-12_21-56-49](https://user-images.githubusercontent.com/4441068/46883427-797f2b80-ce6b-11e8-9791-fd242d1b4957.jpg)
 ![photo_2018-10-12_21-56-50](https://user-images.githubusercontent.com/4441068/46883430-797f2b80-ce6b-11e8-99d8-1ad382f38e0c.jpg)
